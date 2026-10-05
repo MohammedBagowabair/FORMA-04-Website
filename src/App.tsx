@@ -135,7 +135,7 @@ export default function App() {
                 </div>
                 <a className="project-photo" href="#contact" aria-label={`View ${project.name}`}>
                   <img src={project.image} alt={`${project.name} interior`} />
-                  <span>View case →n>
+                  <span>View case →</span>
                 </a>
                 <h3>{project.name}</h3>
               </article>
@@ -176,7 +176,7 @@ export default function App() {
             <span className="status-dot" />
             New projects / 2025
           </div>
-          <h2>Let’s make<br />something <i>real.</i></h2>
+          <h2>Let's make<br />something <i>real.</i></h2>
           <a href="mailto:hello@forma04.studio">
             hello@forma04.studio <span>→</span>
           </a>
