@@ -190,7 +190,7 @@ export default function App() {
 
       <footer>
         <p>FORMA/04 © 2025</p>
-        <a href="#top">Back up ↑
+        <a href="#top">Back up ↑</a>
       </footer>
     </div>
   );
